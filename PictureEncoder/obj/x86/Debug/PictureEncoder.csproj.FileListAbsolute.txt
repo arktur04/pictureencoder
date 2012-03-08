@@ -1,0 +1,15 @@
+C:\Users\V\Documents\Visual Studio 2010\Projects\PictureEncoder\PictureEncoder\bin\Debug\PictureEncoder.exe
+C:\Users\V\Documents\Visual Studio 2010\Projects\PictureEncoder\PictureEncoder\bin\Debug\PictureEncoder.pdb
+C:\Users\V\Documents\Visual Studio 2010\Projects\PictureEncoder\PictureEncoder\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\V\Documents\Visual Studio 2010\Projects\PictureEncoder\PictureEncoder\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\V\Documents\Visual Studio 2010\Projects\PictureEncoder\PictureEncoder\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\V\Documents\Visual Studio 2010\Projects\PictureEncoder\PictureEncoder\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\V\Documents\Visual Studio 2010\Projects\PictureEncoder\PictureEncoder\obj\x86\Debug\PictureEncoder.exe
+C:\Users\V\Documents\Visual Studio 2010\Projects\PictureEncoder\PictureEncoder\obj\x86\Debug\PictureEncoder.pdb
+C:\Users\V\Documents\Visual Studio 2010\Projects\PictureEncoder\PictureEncoder\obj\x86\Debug\WindowsFormsApplication1.AboutForm.resources
+C:\Users\V\documents\visual studio 2010\Projects\PictureEncoder\PictureEncoder\obj\x86\Debug\WindowsFormsApplication1.mainForm.resources
+C:\Users\V\documents\visual studio 2010\Projects\PictureEncoder\PictureEncoder\obj\x86\Debug\WindowsFormsApplication1.PaletteForm.resources
+C:\Users\V\Documents\Visual Studio 2010\Projects\PictureEncoder\PictureEncoder\bin\Debug\PictureEncoder.exe.manifest
+C:\Users\V\Documents\Visual Studio 2010\Projects\PictureEncoder\PictureEncoder\bin\Debug\PictureEncoder.application
+C:\Users\V\Documents\Visual Studio 2010\Projects\PictureEncoder\PictureEncoder\obj\x86\Debug\PictureEncoder.exe.manifest
+C:\Users\V\Documents\Visual Studio 2010\Projects\PictureEncoder\PictureEncoder\obj\x86\Debug\PictureEncoder.application
