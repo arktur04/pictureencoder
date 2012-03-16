@@ -37,6 +37,7 @@
             this.saveFileDialog = new System.Windows.Forms.SaveFileDialog();
             this.pictureBox = new System.Windows.Forms.PictureBox();
             this.paletteButton = new System.Windows.Forms.Button();
+            this.progressBar = new System.Windows.Forms.ProgressBar();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox)).BeginInit();
             this.SuspendLayout();
             // 
@@ -113,11 +114,19 @@
             this.paletteButton.UseVisualStyleBackColor = true;
             this.paletteButton.Click += new System.EventHandler(this.paletteButton_Click);
             // 
+            // progressBar
+            // 
+            this.progressBar.Location = new System.Drawing.Point(93, 330);
+            this.progressBar.Name = "progressBar";
+            this.progressBar.Size = new System.Drawing.Size(240, 22);
+            this.progressBar.TabIndex = 7;
+            // 
             // mainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(345, 365);
+            this.Controls.Add(this.progressBar);
             this.Controls.Add(this.paletteButton);
             this.Controls.Add(this.imageFormatComboBox);
             this.Controls.Add(this.aboutButton);
@@ -145,6 +154,7 @@
         private System.Windows.Forms.ComboBox imageFormatComboBox;
         private System.Windows.Forms.SaveFileDialog saveFileDialog;
         private System.Windows.Forms.Button paletteButton;
+        private System.Windows.Forms.ProgressBar progressBar;
     }
 }
 

@@ -16,7 +16,7 @@ namespace WindowsFormsApplication1
         private Bitmap bmp;
         string currentPath;
         enum ImageFormat { ImageFormat8bit, ImageFormat16Bit, ImageFormat24Bit };
-        ImageFormat imageFormat;
+        ImageFormat imageFormat = ImageFormat.ImageFormat24Bit;
         int lineLengthConstraint = 80;
 
         public mainForm()
@@ -111,6 +111,8 @@ namespace WindowsFormsApplication1
                 {
                     int charCounter;
                     string s;
+                    progressBar.Maximum = bmp.Height - 1;
+                    progressBar.Value = 0;
                     for (int y = 0; y < bmp.Height; y++)
                     {
                         sw.WriteLine(@"{");
@@ -130,6 +132,7 @@ namespace WindowsFormsApplication1
                             sw.Write(s);
                         };
                         sw.WriteLine("},");
+                        progressBar.Value = y;
                     };
                     sw.Close();
                 }
